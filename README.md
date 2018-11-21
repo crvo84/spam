@@ -8,3 +8,6 @@ y
 [*Ada Boost*](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
 
 ## Visualización: [WordCloud](https://github.com/amueller/word_cloud)
+
+
+### Carlos Villanueva - A00354031
